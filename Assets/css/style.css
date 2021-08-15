@@ -58,7 +58,7 @@ p {
     height: 400px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/jacob-stone-unsplash.jpg");
+    background-image: url("./Assets/images/jacob-stone-unsplash.jpg");
     background-size: cover;
     background-position: center;
 }
