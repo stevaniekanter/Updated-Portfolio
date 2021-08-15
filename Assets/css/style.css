@@ -55,7 +55,7 @@ p {
 }
 
 .image {
-    height: 400px;
+    height: 300px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("./Assets/images/jacob-stone-unsplash.jpg");
@@ -66,12 +66,13 @@ p {
 .about-me-img {
     height: 300px;
     width: 300px;
-    padding: 10px;
+    padding: 5px;
     display: block;
     border-radius: 50px;
-    position: absolute;
-    left: 300px;
-    top: 660px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 260px;
+    position: sticky;
 }
 
 h2 {
