@@ -11,4 +11,5 @@ Github Page: https://github.com/stevaniekanter/Updated-Portfolio
 ## Screenshot
 
 ![homepage](Assets/images/screenshot.png)
+![homepage](Assets/images/screenshot2.png)
 
