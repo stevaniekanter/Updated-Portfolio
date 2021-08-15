@@ -104,16 +104,15 @@ h2 {
 .card {
     border: none;
     color: var(--purple);
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.coming-soon {
-    height: 300px;
-    width: 500px;
-    display: inline;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    margin-left: 400px;
-    padding: 10px;
+.contact {
+    display:list-item;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .first {
@@ -165,6 +164,11 @@ footer {
     color: #ad88dd;
 }
 
+.work {
+    align-items: center;
+    position: relative;
+    display: grid;
+}
 
 .contact a {
     background: linear-gradient(to bottom, #ad88dd 0%, #725a97 100%);
