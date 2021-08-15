@@ -84,6 +84,7 @@ h2 {
     font-size: 36px;
     color: var(--purple);
     border-bottom: var(--purple);
+    text-decoration: underline;
 }
 
 .align-right {
